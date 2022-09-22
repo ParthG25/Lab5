@@ -30,7 +30,6 @@ public class ns
   
         System.out.println();
 		
-        
 		ss.close();
 	}
 }
