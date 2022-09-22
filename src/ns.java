@@ -23,6 +23,7 @@ public class ns
             }
             arr[j + 1] = key;
         }
+		
 
 		for (int i = 0; i < n; ++i)
             System.out.print(arr[i] + "\t");
